@@ -1,2 +1,2 @@
 # creative-economy
-Prototype composite index of creative economy &amp; digital readiness, with a Western Indian Ocean deep-dive.
+Measuring the Creative Ecosystem of Indian Ocean Island States (Comoros, Madagascar, Mauritius, Seychelles)

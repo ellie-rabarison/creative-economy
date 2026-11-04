@@ -1,0 +1,9 @@
+Dataset: Creative goods: Bilateral trade by product group - Annual (analytical)
+
+Page Filters: 
+	Partner: World 
+
+
+Download Type: Tabular
+
+Language: EN
