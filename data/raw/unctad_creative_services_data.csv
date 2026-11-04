@@ -1,0 +1,81 @@
+Economy_Label,Flow_Label,Year,Percentage_of_total_trade_in_services_Value,Percentage_of_total_trade_in_services_Footnote,Percentage_of_total_trade_in_services_MissingValue,US_at_current_prices_in_thousands_Value,US_at_current_prices_Footnote,US_at_current_prices_MissingValue,Growth_rate_yearonyear_Value,Growth_rate_yearonyear_Footnote,Growth_rate_yearonyear_MissingValue
+"Comoros","Exports",2015,,,"Not publishable",,,"Not publishable",,,"No value reported or collected"
+"Comoros","Exports",2016,,,"Not publishable",,,"Not publishable",,,"No value reported or collected"
+"Comoros","Exports",2017,,,"Not publishable",,,"Not publishable",,,"No value reported or collected"
+"Comoros","Exports",2018,,,"Not publishable",,,"Not publishable",,,"No value reported or collected"
+"Comoros","Exports",2019,,,"Not publishable",,,"Not publishable",,,"No value reported or collected"
+"Comoros","Exports",2020,,,"Not publishable",,,"Not publishable",,,"No value reported or collected"
+"Comoros","Exports",2021,,,"Not publishable",,,"Not publishable",,,"No value reported or collected"
+"Comoros","Exports",2022,,,"Not publishable",,,"Not publishable",,,"No value reported or collected"
+"Comoros","Exports",2023,,,"Not publishable",,,"Not publishable",,,"No value reported or collected"
+"Comoros","Exports",2024,,,"Not publishable",,,"Not publishable",,,"No value reported or collected"
+"Comoros","Imports",2015,0.34,,,283,,,-1.2,,
+"Comoros","Imports",2016,0.31,,,263,,,-7.1,,
+"Comoros","Imports",2017,0.36,,,338,,,28.6,,
+"Comoros","Imports",2018,0.35,,,382,,,13.1,,
+"Comoros","Imports",2019,0.35,,,392,,,2.8,,
+"Comoros","Imports",2020,0.42,,,440,,,12.1,,
+"Comoros","Imports",2021,0.31,,,497,,,13,,
+"Comoros","Imports",2022,0.24,,,508,,,2.2,,
+"Comoros","Imports",2023,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Comoros","Imports",2024,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Exports",2015,4.53,,,50122,,,,,"Not publishable"
+"Madagascar","Exports",2016,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Exports",2017,3.34,,,44889,,,,,"Not publishable"
+"Madagascar","Exports",2018,4.4,,,60340,,,34.4,,
+"Madagascar","Exports",2019,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Exports",2020,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Exports",2021,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Exports",2022,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Exports",2023,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Exports",2024,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Imports",2015,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Imports",2016,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Imports",2017,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Imports",2018,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Imports",2019,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Imports",2020,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Imports",2021,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Imports",2022,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Imports",2023,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Madagascar","Imports",2024,,,"Not publishable",,,"Not publishable",,,"Not publishable"
+"Mauritius","Exports",2015,8.07,,,220563,,,-5.5,,
+"Mauritius","Exports",2016,7.74,,,218712,,,-0.8,,
+"Mauritius","Exports",2017,6.69,,,204072,,,-6.7,,
+"Mauritius","Exports",2018,8.41,,,335535,,,64.4,,
+"Mauritius","Exports",2019,9.24,,,360363,,,7.4,,
+"Mauritius","Exports",2020,16.69,,,370087,,,2.7,,
+"Mauritius","Exports",2021,18.19,,,409697,,,10.7,,
+"Mauritius","Exports",2022,12.37,,,464037,,,13.3,,
+"Mauritius","Exports",2023,9.2,,,375844,,,-19,,
+"Mauritius","Exports",2024,16.44,,,1010282,,,168.8,,
+"Mauritius","Imports",2015,11.26,,,229836,,,-11.2,,
+"Mauritius","Imports",2016,10.24,,,210047,,,-8.6,,
+"Mauritius","Imports",2017,10.15,,,221098,,,5.3,,
+"Mauritius","Imports",2018,8.31,,,178392,,,-19.3,,
+"Mauritius","Imports",2019,7.29,,,151000,,,-15.4,,
+"Mauritius","Imports",2020,11.38,,,148722,,,-1.5,,
+"Mauritius","Imports",2021,12.06,,,170306,,,14.5,,
+"Mauritius","Imports",2022,9.38,,,191941,,,12.7,,
+"Mauritius","Imports",2023,8.5,,,181258,,,-5.6,,
+"Mauritius","Imports",2024,10.26,,,238245,,,31.4,,
+"Seychelles","Exports",2015,7.82,,,66318,,,1.6,,
+"Seychelles","Exports",2016,4.73,,,53904,,,-18.7,,
+"Seychelles","Exports",2017,3.85,,,50848,,,-5.7,,
+"Seychelles","Exports",2018,5.39,,,84740,,,66.7,,
+"Seychelles","Exports",2019,4.71,,,75455,,,-11,,
+"Seychelles","Exports",2020,11.16,,,85561,,,13.4,,
+"Seychelles","Exports",2021,7.95,,,98180,,,14.7,,
+"Seychelles","Exports",2022,6.23,,,104912,,,6.9,,
+"Seychelles","Exports",2023,5.41,,,99116,,,-5.5,,
+"Seychelles","Exports",2024,4.61,,,83009,,,-16.3,,
+"Seychelles","Imports",2015,14.5,,,72303,,,-5.9,,
+"Seychelles","Imports",2016,10.87,,,68305,,,-5.5,,
+"Seychelles","Imports",2017,11.85,,,98341,,,44,,
+"Seychelles","Imports",2018,11.55,,,100956,,,2.7,,
+"Seychelles","Imports",2019,10.7,,,97481,,,-3.4,,
+"Seychelles","Imports",2020,2.16,,,10828,,,-88.9,,
+"Seychelles","Imports",2021,10.97,,,87602,,,709,,
+"Seychelles","Imports",2022,9.96,,,100002,,,14.2,,
+"Seychelles","Imports",2023,9.72,,,98162,,,-1.8,,
+"Seychelles","Imports",2024,9.2,,,98037,,,-0.1,,
