@@ -1,0 +1,16 @@
+# UNDP Human Development Report (HDR) – composite indices time series
+
+## What it is
+Bulk file of UNDP's composite indices and their components (HDI, GII, and
+others) for all countries and regional aggregates. Published with the
+Human Development Report 2025.
+
+## Source
+- Publisher: United Nations Development Programme (UNDP), Human Development Report Office
+- Download page: https://hdr.undp.org/data-center/documentation-and-downloads
+- Technical notes (methodology): https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Technical_Notes.pdf
+- Downloaded: 2026-11-04
+- File: data/raw/undp_hdr_data.csv
+
+## Structure
+- Coverage: 
