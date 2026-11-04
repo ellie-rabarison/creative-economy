@@ -1,0 +1,28 @@
+
+# UNESCO heritage entries – Comoros, Madagascar, Mauritius, Seychelles
+
+## What it is
+Manually  compiled list of UNESCO World Heritage sites and Intangible Cultural
+Heritage (ICH) elements for the four islands. One row per entry.
+
+## How it was compiled
+- Sources: UNESCO World Heritage Centre (whc.unesco.org, States Parties pages)
+  and UNESCO ICH (ich.unesco.org, country pages)
+- Compiled by: Ellie Rabarison, 2026-11-04
+- Each entry checked on the official UNESCO page
+
+## Columns
+- country / iso3: country name and ISO 3-letter code
+- list: "World Heritage" or "Intangible Cultural Heritage"
+- name: name of the site or element 
+- category: Cultural / Natural / Mixed (WH),
+  Representative List / Urgent Safeguarding / Good Safeguarding Practices (ICH)
+- inscription_year: year of inscription
+- shared_with: other countries for multinational entries
+
+## Choices and limitations
+- Shared (multinational) ICH entries counted for each country involved
+- Tentative lists not included
+- Manual entry: may contain transcription errors; verify against UNESCO pages
+- Counts measure recognition, not the size or value of cultural heritage
+- Rainforests of the Atsinanana: on the List of World Heritage in Danger 2010–2025, removed in 2026 (per UNESCO page, checked 2026-11-04).
