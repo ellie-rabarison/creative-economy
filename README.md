@@ -4,8 +4,6 @@
 
 An independent data project applying the structure of WIPO's **Creative Economy Data Model (CEDM)** to four island economies of the Western Indian Ocean, using only publicly available international data.
 
-> **Status: work in progress (started November 2026).** Data collection, documentation and the data availability audit are complete; the cleaning pipeline is being built source by source; benchmarking and charts come next.
-
 ---
 
 ## Why this project
