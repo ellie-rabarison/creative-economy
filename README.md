@@ -25,24 +25,29 @@ National CEDM diagnostics rely on rich national data. This project asks a simple
 
 Ten public datasets, all documented in [`data/raw/SOURCES.md`](data/raw/SOURCES.md):
 
-| CEDM element | Indicator | Source |
-|---|---|---|
-| **Governance** | Rule of law, government effectiveness | World Bank – Worldwide Governance Indicators |
-| | World Press Freedom Index (2022–2026) | RSF |
-| | Academic freedom, freedom of association | V-Dem (via Our World in Data) |
-| | Gini index (inverted) | World Bank – World Development Indicators |
-| **Social & cultural** | Gender Inequality Index (inverted) | UNDP – Human Development Report |
-| | World Heritage sites, Intangible Cultural Heritage entries (compiled manually) | UNESCO |
-| **Infrastructure** | Internet use | World Bank – World Development Indicators (ITU data) |
-| | Population covered by 4G/LTE | ITU |
-| | Logistics performance | World Bank – World Development Indicators |
-| **Demand** | Creative goods imports and exports (% of merchandise trade) | UNCTADstat |
-| **Creative value & IP** | Creative goods exports by product group | UNCTADstat |
-| | Creative services trade (experimental estimates) | UNCTADstat |
-| | Trademark and industrial design applications, resident vs non-resident | WIPO IP statistics (via World Bank) |
-| | Charges for the use of IP, receipts | World Bank – World Development Indicators |
-| *Context and helpers* | Human Development Index | UNDP – Human Development Report |
-| | Population, merchandise exports and imports | World Bank – World Development Indicators |
+<table>
+  <thead>
+    <tr><th>CEDM element</th><th>Indicator</th><th>Source</th></tr>
+  </thead>
+  <tbody>
+    <tr><td rowspan="4"><b>Governance</b></td><td>Rule of law, government effectiveness</td><td>World Bank – Worldwide Governance Indicators</td></tr>
+    <tr><td>World Press Freedom Index (2022–2026)</td><td>RSF</td></tr>
+    <tr><td>Academic freedom, freedom of association</td><td>V-Dem (via Our World in Data)</td></tr>
+    <tr><td>Gini index (inverted)</td><td>World Bank – World Development Indicators</td></tr>
+    <tr><td rowspan="2"><b>Social &amp; cultural</b></td><td>Gender Inequality Index (inverted)</td><td>UNDP – Human Development Report</td></tr>
+    <tr><td>World Heritage sites, Intangible Cultural Heritage entries (compiled manually)</td><td>UNESCO</td></tr>
+    <tr><td rowspan="3"><b>Infrastructure</b></td><td>Internet use</td><td>World Bank – World Development Indicators (ITU data)</td></tr>
+    <tr><td>Population covered by 4G/LTE</td><td>ITU</td></tr>
+    <tr><td>Logistics performance</td><td>World Bank – World Development Indicators</td></tr>
+    <tr><td><b>Demand</b></td><td>Creative goods imports and exports (% of merchandise trade)</td><td>UNCTADstat</td></tr>
+    <tr><td rowspan="4"><b>Creative value &amp; IP</b></td><td>Creative goods exports by product group</td><td>UNCTADstat</td></tr>
+    <tr><td>Creative services trade (experimental estimates)</td><td>UNCTADstat</td></tr>
+    <tr><td>Trademark and industrial design applications, resident vs non-resident</td><td>WIPO IP statistics (via World Bank)</td></tr>
+    <tr><td>Charges for the use of IP, receipts</td><td>World Bank – World Development Indicators</td></tr>
+    <tr><td rowspan="2"><i>Context and helpers</i></td><td>Human Development Index</td><td>UNDP – Human Development Report</td></tr>
+    <tr><td>Population, merchandise exports and imports</td><td>World Bank – World Development Indicators</td></tr>
+  </tbody>
+</table>
 
 Data remain subject to the terms of their original sources.
 
