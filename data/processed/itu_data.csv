@@ -1,0 +1,83 @@
+iso3,entity,indicator,element,year,value,unit,source,note
+AFR,Africa,lte_coverage,Infrastructure,2015,11.1,% of population covered by 4G/LTE,ITU,ITU estimate.
+AFR,Africa,lte_coverage,Infrastructure,2016,15.0,% of population covered by 4G/LTE,ITU,ITU estimate.
+AFR,Africa,lte_coverage,Infrastructure,2017,17.9,% of population covered by 4G/LTE,ITU,ITU estimate.
+AFR,Africa,lte_coverage,Infrastructure,2018,24.3,% of population covered by 4G/LTE,ITU,ITU estimate.
+AFR,Africa,lte_coverage,Infrastructure,2019,33.6,% of population covered by 4G/LTE,ITU,ITU estimate.
+AFR,Africa,lte_coverage,Infrastructure,2020,42.6,% of population covered by 4G/LTE,ITU,ITU estimate.
+AFR,Africa,lte_coverage,Infrastructure,2021,50.3,% of population covered by 4G/LTE,ITU,ITU estimate.
+AFR,Africa,lte_coverage,Infrastructure,2022,62.1,% of population covered by 4G/LTE,ITU,ITU estimate.
+AFR,Africa,lte_coverage,Infrastructure,2023,68.6,% of population covered by 4G/LTE,ITU,ITU estimate.
+AFR,Africa,lte_coverage,Infrastructure,2024,73.5,% of population covered by 4G/LTE,ITU,ITU estimate.
+COM,Comoros,lte_coverage,Infrastructure,2015,57.0,% of population covered by 4G/LTE,ITU,ITU estimate.
+COM,Comoros,lte_coverage,Infrastructure,2016,60.0,% of population covered by 4G/LTE,ITU,ANRTIC
+COM,Comoros,lte_coverage,Infrastructure,2017,82.48,% of population covered by 4G/LTE,ITU,ANRTIC | Cette valeur est obtenu après agrégation des données des deux opérateurs
+COM,Comoros,lte_coverage,Infrastructure,2018,82.48,% of population covered by 4G/LTE,ITU,ANRTIC
+COM,Comoros,lte_coverage,Infrastructure,2019,79.87,% of population covered by 4G/LTE,ITU,Autorité Nationale de Régulation des TIC
+COM,Comoros,lte_coverage,Infrastructure,2020,81.0,% of population covered by 4G/LTE,ITU,Autorité Nationale de Régulation des TIC
+COM,Comoros,lte_coverage,Infrastructure,2021,85.0,% of population covered by 4G/LTE,ITU,Autorité Nationale de Régulation des TIC | ANRTIC
+COM,Comoros,lte_coverage,Infrastructure,2022,85.0,% of population covered by 4G/LTE,ITU,Autorité Nationale de Régulation des TIC | ANRTIC
+COM,Comoros,lte_coverage,Infrastructure,2023,94.0,% of population covered by 4G/LTE,ITU,Autorité Nationale de Régulation des TIC | Telma n'a pas fourni ses données dans cette rubrique
+COM,Comoros,lte_coverage,Infrastructure,2024,94.0,% of population covered by 4G/LTE,ITU,ITU estimate.
+LDC,Least Developed Countries (LDC),lte_coverage,Infrastructure,2015,15.4,% of population covered by 4G/LTE,ITU,ITU estimate.
+LDC,Least Developed Countries (LDC),lte_coverage,Infrastructure,2016,19.4,% of population covered by 4G/LTE,ITU,ITU estimate.
+LDC,Least Developed Countries (LDC),lte_coverage,Infrastructure,2017,23.4,% of population covered by 4G/LTE,ITU,ITU estimate.
+LDC,Least Developed Countries (LDC),lte_coverage,Infrastructure,2018,30.7,% of population covered by 4G/LTE,ITU,ITU estimate.
+LDC,Least Developed Countries (LDC),lte_coverage,Infrastructure,2019,36.6,% of population covered by 4G/LTE,ITU,ITU estimate.
+LDC,Least Developed Countries (LDC),lte_coverage,Infrastructure,2020,45.9,% of population covered by 4G/LTE,ITU,ITU estimate.
+LDC,Least Developed Countries (LDC),lte_coverage,Infrastructure,2021,47.8,% of population covered by 4G/LTE,ITU,ITU estimate.
+LDC,Least Developed Countries (LDC),lte_coverage,Infrastructure,2022,57.1,% of population covered by 4G/LTE,ITU,ITU estimate.
+LDC,Least Developed Countries (LDC),lte_coverage,Infrastructure,2023,64.2,% of population covered by 4G/LTE,ITU,ITU estimate.
+LDC,Least Developed Countries (LDC),lte_coverage,Infrastructure,2024,69.6,% of population covered by 4G/LTE,ITU,ITU estimate.
+MDG,Madagascar,lte_coverage,Infrastructure,2015,21.0,% of population covered by 4G/LTE,ITU,Autorité de Régulation des Technologies de Communication
+MDG,Madagascar,lte_coverage,Infrastructure,2016,23.08,% of population covered by 4G/LTE,ITU,Autorité de Régulation des Technologies de Communication
+MDG,Madagascar,lte_coverage,Infrastructure,2017,25.01,% of population covered by 4G/LTE,ITU,Autorité de Régulation des Technologies de Communication
+MDG,Madagascar,lte_coverage,Infrastructure,2018,25.0,% of population covered by 4G/LTE,ITU,Autorité de Régulation des Technologies de Communication
+MDG,Madagascar,lte_coverage,Infrastructure,2019,25.0,% of population covered by 4G/LTE,ITU,Autorité de Régulation des Technologies de Communication
+MDG,Madagascar,lte_coverage,Infrastructure,2020,25.0,% of population covered by 4G/LTE,ITU,Autorité de Régulation des Technologies de Communication
+MDG,Madagascar,lte_coverage,Infrastructure,2021,27.11,% of population covered by 4G/LTE,ITU,Autorité de Régulation des Technologies de Communication
+MDG,Madagascar,lte_coverage,Infrastructure,2022,27.32,% of population covered by 4G/LTE,ITU,Autorité de Régulation des Technologies de Communication
+MDG,Madagascar,lte_coverage,Infrastructure,2023,33.64,% of population covered by 4G/LTE,ITU,Autorité de Régulation des Technologies de Communication
+MDG,Madagascar,lte_coverage,Infrastructure,2024,34.62669363,% of population covered by 4G/LTE,ITU,ITU estimate.
+MUS,Mauritius,lte_coverage,Infrastructure,2015,35.3,% of population covered by 4G/LTE,ITU,Information and Communication Technologies Authority of Mauritius
+MUS,Mauritius,lte_coverage,Infrastructure,2016,36.7,% of population covered by 4G/LTE,ITU,Information and Communication Technologies Authority
+MUS,Mauritius,lte_coverage,Infrastructure,2017,99.0,% of population covered by 4G/LTE,ITU,Information and Communication Technologies Authority | Information and Communication Technologies Authority of Mauritius
+MUS,Mauritius,lte_coverage,Infrastructure,2018,99.0,% of population covered by 4G/LTE,ITU,ICTA | Information and Communication Technologies Authority of Mauritius
+MUS,Mauritius,lte_coverage,Infrastructure,2019,99.0,% of population covered by 4G/LTE,ITU,Information and Communication Technologies Authority of Mauritius
+MUS,Mauritius,lte_coverage,Infrastructure,2020,99.0,% of population covered by 4G/LTE,ITU,Information and Communication Technologies Authority of Mauritius
+MUS,Mauritius,lte_coverage,Infrastructure,2021,99.0,% of population covered by 4G/LTE,ITU,Information and Communication Technologies Authority of Mauritius
+MUS,Mauritius,lte_coverage,Infrastructure,2022,99.0,% of population covered by 4G/LTE,ITU,Information and Communication Technologies Authority of Mauritius
+MUS,Mauritius,lte_coverage,Infrastructure,2023,99.0,% of population covered by 4G/LTE,ITU,Information and Communication Technologies Authority of Mauritius
+MUS,Mauritius,lte_coverage,Infrastructure,2024,99.0,% of population covered by 4G/LTE,ITU,Information and Communication Technologies Authority of Mauritius
+MUS,Mauritius,lte_coverage,Infrastructure,2025,99.0,% of population covered by 4G/LTE,ITU,Information and Communication Technologies Authority of Mauritius
+SIDS,Small Island Developing States (SIDS),lte_coverage,Infrastructure,2015,35.1,% of population covered by 4G/LTE,ITU,ITU estimate.
+SIDS,Small Island Developing States (SIDS),lte_coverage,Infrastructure,2016,40.3,% of population covered by 4G/LTE,ITU,ITU estimate.
+SIDS,Small Island Developing States (SIDS),lte_coverage,Infrastructure,2017,51.4,% of population covered by 4G/LTE,ITU,ITU estimate.
+SIDS,Small Island Developing States (SIDS),lte_coverage,Infrastructure,2018,54.8,% of population covered by 4G/LTE,ITU,ITU estimate.
+SIDS,Small Island Developing States (SIDS),lte_coverage,Infrastructure,2019,60.5,% of population covered by 4G/LTE,ITU,ITU estimate.
+SIDS,Small Island Developing States (SIDS),lte_coverage,Infrastructure,2020,64.3,% of population covered by 4G/LTE,ITU,ITU estimate.
+SIDS,Small Island Developing States (SIDS),lte_coverage,Infrastructure,2021,66.8,% of population covered by 4G/LTE,ITU,ITU estimate.
+SIDS,Small Island Developing States (SIDS),lte_coverage,Infrastructure,2022,68.8,% of population covered by 4G/LTE,ITU,ITU estimate.
+SIDS,Small Island Developing States (SIDS),lte_coverage,Infrastructure,2023,70.8,% of population covered by 4G/LTE,ITU,ITU estimate.
+SIDS,Small Island Developing States (SIDS),lte_coverage,Infrastructure,2024,72.0,% of population covered by 4G/LTE,ITU,ITU estimate.
+SYC,Seychelles,lte_coverage,Infrastructure,2015,21.44,% of population covered by 4G/LTE,ITU,ITU estimate.
+SYC,Seychelles,lte_coverage,Infrastructure,2016,41.14,% of population covered by 4G/LTE,ITU,"Office of  the Vice President, Department of Information Communication Technology"
+SYC,Seychelles,lte_coverage,Infrastructure,2017,90.0,% of population covered by 4G/LTE,ITU,"Office of  the Vice President, Department of Information Communication Technology"
+SYC,Seychelles,lte_coverage,Infrastructure,2018,98.5,% of population covered by 4G/LTE,ITU,"Office of the Vice-President, Department of Information Communications Technology "
+SYC,Seychelles,lte_coverage,Infrastructure,2019,98.5,% of population covered by 4G/LTE,ITU,"Office of the Vice-President, Department of Information Communications Technology "
+SYC,Seychelles,lte_coverage,Infrastructure,2020,98.5,% of population covered by 4G/LTE,ITU,"Office of the Vice-President, Department of Information Communications Technology"
+SYC,Seychelles,lte_coverage,Infrastructure,2021,98.5,% of population covered by 4G/LTE,ITU,Seychelles Communication Regulatory Authority
+SYC,Seychelles,lte_coverage,Infrastructure,2022,99.0,% of population covered by 4G/LTE,ITU,Seychelles Communications Regulatory Authority
+SYC,Seychelles,lte_coverage,Infrastructure,2023,99.0,% of population covered by 4G/LTE,ITU,Seychelles Communications Regulatory Authority
+SYC,Seychelles,lte_coverage,Infrastructure,2024,99.0,% of population covered by 4G/LTE,ITU,"Office of the Vice-President, Department of Information Communications Technology"
+SYC,Seychelles,lte_coverage,Infrastructure,2025,99.0,% of population covered by 4G/LTE,ITU,"Office of the Vice-President, Department of Information Communications Technology "
+WLD,World,lte_coverage,Infrastructure,2015,43.5,% of population covered by 4G/LTE,ITU,ITU estimate.
+WLD,World,lte_coverage,Infrastructure,2016,63.8,% of population covered by 4G/LTE,ITU,ITU estimate.
+WLD,World,lte_coverage,Infrastructure,2017,74.5,% of population covered by 4G/LTE,ITU,ITU estimate.
+WLD,World,lte_coverage,Infrastructure,2018,79.3,% of population covered by 4G/LTE,ITU,ITU estimate.
+WLD,World,lte_coverage,Infrastructure,2019,82.9,% of population covered by 4G/LTE,ITU,ITU estimate.
+WLD,World,lte_coverage,Infrastructure,2020,85.3,% of population covered by 4G/LTE,ITU,ITU estimate.
+WLD,World,lte_coverage,Infrastructure,2021,87.0,% of population covered by 4G/LTE,ITU,ITU estimate.
+WLD,World,lte_coverage,Infrastructure,2022,89.4,% of population covered by 4G/LTE,ITU,ITU estimate.
+WLD,World,lte_coverage,Infrastructure,2023,91.4,% of population covered by 4G/LTE,ITU,ITU estimate.
+WLD,World,lte_coverage,Infrastructure,2024,92.4,% of population covered by 4G/LTE,ITU,ITU estimate.
