@@ -1,0 +1,709 @@
+iso3,entity,indicator,element,year,value,unit,source
+MDG,Madagascar,designs_nonresident,Creative value & IP,2015,1.0,applications,World Bank WDI
+MDG,Madagascar,designs_nonresident,Creative value & IP,2016,4.0,applications,World Bank WDI
+MDG,Madagascar,designs_nonresident,Creative value & IP,2017,23.0,applications,World Bank WDI
+MDG,Madagascar,designs_nonresident,Creative value & IP,2018,7.0,applications,World Bank WDI
+MDG,Madagascar,designs_nonresident,Creative value & IP,2019,4.0,applications,World Bank WDI
+MDG,Madagascar,designs_nonresident,Creative value & IP,2020,13.0,applications,World Bank WDI
+MDG,Madagascar,designs_nonresident,Creative value & IP,2022,22.0,applications,World Bank WDI
+MDG,Madagascar,designs_nonresident,Creative value & IP,2023,44.0,applications,World Bank WDI
+MDG,Madagascar,designs_nonresident,Creative value & IP,2024,5.0,applications,World Bank WDI
+MUS,Mauritius,designs_nonresident,Creative value & IP,2018,24.0,applications,World Bank WDI
+MUS,Mauritius,designs_nonresident,Creative value & IP,2019,11.0,applications,World Bank WDI
+MUS,Mauritius,designs_nonresident,Creative value & IP,2020,2.0,applications,World Bank WDI
+MUS,Mauritius,designs_nonresident,Creative value & IP,2021,3.0,applications,World Bank WDI
+MUS,Mauritius,designs_nonresident,Creative value & IP,2022,2.0,applications,World Bank WDI
+MUS,Mauritius,designs_nonresident,Creative value & IP,2023,63.0,applications,World Bank WDI
+MUS,Mauritius,designs_nonresident,Creative value & IP,2024,213.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_nonresident,Creative value & IP,2015,2092.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_nonresident,Creative value & IP,2016,2094.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_nonresident,Creative value & IP,2017,2573.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_nonresident,Creative value & IP,2018,2276.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_nonresident,Creative value & IP,2019,2470.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_nonresident,Creative value & IP,2020,1961.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_nonresident,Creative value & IP,2021,1591.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_nonresident,Creative value & IP,2022,2317.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_nonresident,Creative value & IP,2023,2198.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_nonresident,Creative value & IP,2024,3161.0,applications,World Bank WDI
+SYC,Seychelles,designs_nonresident,Creative value & IP,2019,5.0,applications,World Bank WDI
+SYC,Seychelles,designs_nonresident,Creative value & IP,2020,8.0,applications,World Bank WDI
+SYC,Seychelles,designs_nonresident,Creative value & IP,2021,1.0,applications,World Bank WDI
+WLD,World,designs_nonresident,Creative value & IP,2015,188900.0,applications,World Bank WDI
+WLD,World,designs_nonresident,Creative value & IP,2016,190400.0,applications,World Bank WDI
+WLD,World,designs_nonresident,Creative value & IP,2017,204700.0,applications,World Bank WDI
+WLD,World,designs_nonresident,Creative value & IP,2018,200900.0,applications,World Bank WDI
+WLD,World,designs_nonresident,Creative value & IP,2019,223700.0,applications,World Bank WDI
+WLD,World,designs_nonresident,Creative value & IP,2020,211300.0,applications,World Bank WDI
+WLD,World,designs_nonresident,Creative value & IP,2021,273700.0,applications,World Bank WDI
+WLD,World,designs_nonresident,Creative value & IP,2022,255400.0,applications,World Bank WDI
+WLD,World,designs_nonresident,Creative value & IP,2023,274600.0,applications,World Bank WDI
+WLD,World,designs_nonresident,Creative value & IP,2024,308800.0,applications,World Bank WDI
+MDG,Madagascar,designs_resident,Creative value & IP,2015,205.0,applications,World Bank WDI
+MDG,Madagascar,designs_resident,Creative value & IP,2016,166.0,applications,World Bank WDI
+MDG,Madagascar,designs_resident,Creative value & IP,2017,163.0,applications,World Bank WDI
+MDG,Madagascar,designs_resident,Creative value & IP,2018,293.0,applications,World Bank WDI
+MDG,Madagascar,designs_resident,Creative value & IP,2019,314.0,applications,World Bank WDI
+MDG,Madagascar,designs_resident,Creative value & IP,2020,207.0,applications,World Bank WDI
+MDG,Madagascar,designs_resident,Creative value & IP,2021,328.0,applications,World Bank WDI
+MDG,Madagascar,designs_resident,Creative value & IP,2022,338.0,applications,World Bank WDI
+MDG,Madagascar,designs_resident,Creative value & IP,2023,242.0,applications,World Bank WDI
+MDG,Madagascar,designs_resident,Creative value & IP,2024,252.0,applications,World Bank WDI
+MUS,Mauritius,designs_resident,Creative value & IP,2018,75.0,applications,World Bank WDI
+MUS,Mauritius,designs_resident,Creative value & IP,2019,115.0,applications,World Bank WDI
+MUS,Mauritius,designs_resident,Creative value & IP,2020,84.0,applications,World Bank WDI
+MUS,Mauritius,designs_resident,Creative value & IP,2021,24.0,applications,World Bank WDI
+MUS,Mauritius,designs_resident,Creative value & IP,2022,25.0,applications,World Bank WDI
+MUS,Mauritius,designs_resident,Creative value & IP,2023,99.0,applications,World Bank WDI
+MUS,Mauritius,designs_resident,Creative value & IP,2024,111.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_resident,Creative value & IP,2015,1607.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_resident,Creative value & IP,2016,3236.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_resident,Creative value & IP,2017,3892.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_resident,Creative value & IP,2018,4810.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_resident,Creative value & IP,2019,4262.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_resident,Creative value & IP,2020,4249.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_resident,Creative value & IP,2021,1699.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_resident,Creative value & IP,2022,2363.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_resident,Creative value & IP,2023,2285.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,designs_resident,Creative value & IP,2024,2405.0,applications,World Bank WDI
+WLD,World,designs_resident,Creative value & IP,2015,1013600.0,applications,World Bank WDI
+WLD,World,designs_resident,Creative value & IP,2016,1095800.0,applications,World Bank WDI
+WLD,World,designs_resident,Creative value & IP,2017,1072600.0,applications,World Bank WDI
+WLD,World,designs_resident,Creative value & IP,2018,1142900.0,applications,World Bank WDI
+WLD,World,designs_resident,Creative value & IP,2019,1137300.0,applications,World Bank WDI
+WLD,World,designs_resident,Creative value & IP,2020,1176500.0,applications,World Bank WDI
+WLD,World,designs_resident,Creative value & IP,2021,1240100.0,applications,World Bank WDI
+WLD,World,designs_resident,Creative value & IP,2022,1227200.0,applications,World Bank WDI
+WLD,World,designs_resident,Creative value & IP,2023,1251000.0,applications,World Bank WDI
+WLD,World,designs_resident,Creative value & IP,2024,1250600.0,applications,World Bank WDI
+COM,Comoros,gini,Governance,2020,34.2,"index, 0 to 100 (higher = more unequal)",World Bank WDI
+COM,Comoros,gini,Governance,2024,30.3,"index, 0 to 100 (higher = more unequal)",World Bank WDI
+MDG,Madagascar,gini,Governance,2021,36.8,"index, 0 to 100 (higher = more unequal)",World Bank WDI
+MUS,Mauritius,gini,Governance,2017,36.8,"index, 0 to 100 (higher = more unequal)",World Bank WDI
+SYC,Seychelles,gini,Governance,2018,32.1,"index, 0 to 100 (higher = more unequal)",World Bank WDI
+COM,Comoros,government_effectiveness,Governance,2015,-1.3109194,"estimate, world average = 0",World Bank WGI
+COM,Comoros,government_effectiveness,Governance,2016,-1.2597883,"estimate, world average = 0",World Bank WGI
+COM,Comoros,government_effectiveness,Governance,2017,-1.2059829,"estimate, world average = 0",World Bank WGI
+COM,Comoros,government_effectiveness,Governance,2018,-1.2262838,"estimate, world average = 0",World Bank WGI
+COM,Comoros,government_effectiveness,Governance,2019,-1.2514436,"estimate, world average = 0",World Bank WGI
+COM,Comoros,government_effectiveness,Governance,2020,-1.2798142,"estimate, world average = 0",World Bank WGI
+COM,Comoros,government_effectiveness,Governance,2021,-1.4378938,"estimate, world average = 0",World Bank WGI
+COM,Comoros,government_effectiveness,Governance,2022,-1.2930039,"estimate, world average = 0",World Bank WGI
+COM,Comoros,government_effectiveness,Governance,2023,-1.1788688,"estimate, world average = 0",World Bank WGI
+COM,Comoros,government_effectiveness,Governance,2024,-1.1143873,"estimate, world average = 0",World Bank WGI
+COM,Comoros,government_effectiveness,Governance,2025,-1.1434181,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,government_effectiveness,Governance,2015,-0.9713841,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,government_effectiveness,Governance,2016,-0.7875983,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,government_effectiveness,Governance,2017,-0.7849811,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,government_effectiveness,Governance,2018,-0.8417839,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,government_effectiveness,Governance,2019,-0.8215709,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,government_effectiveness,Governance,2020,-0.862661,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,government_effectiveness,Governance,2021,-0.9084198,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,government_effectiveness,Governance,2022,-0.8902071,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,government_effectiveness,Governance,2023,-0.9208641,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,government_effectiveness,Governance,2024,-0.8394603,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,government_effectiveness,Governance,2025,-0.8734433,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,government_effectiveness,Governance,2015,1.1856722,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,government_effectiveness,Governance,2016,1.2191351,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,government_effectiveness,Governance,2017,1.1654767,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,government_effectiveness,Governance,2018,1.0660947,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,government_effectiveness,Governance,2019,0.9896973,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,government_effectiveness,Governance,2020,0.9564112,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,government_effectiveness,Governance,2021,0.8717439,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,government_effectiveness,Governance,2022,0.8387538,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,government_effectiveness,Governance,2023,0.9232086,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,government_effectiveness,Governance,2024,0.9126142,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,government_effectiveness,Governance,2025,0.8599004,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,government_effectiveness,Governance,2015,0.6414319,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,government_effectiveness,Governance,2016,0.7987381,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,government_effectiveness,Governance,2017,0.6218275,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,government_effectiveness,Governance,2018,0.6424402,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,government_effectiveness,Governance,2019,0.565509,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,government_effectiveness,Governance,2020,0.5083904,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,government_effectiveness,Governance,2021,0.562876,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,government_effectiveness,Governance,2022,0.4248859,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,government_effectiveness,Governance,2023,0.5455384,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,government_effectiveness,Governance,2024,0.6488479,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,government_effectiveness,Governance,2025,0.7655151,"estimate, world average = 0",World Bank WGI
+COM,Comoros,internet_users,Infrastructure,2015,7.459199905,% of population,World Bank WDI
+COM,Comoros,internet_users,Infrastructure,2016,7.938300133,% of population,World Bank WDI
+COM,Comoros,internet_users,Infrastructure,2017,8.478199959,% of population,World Bank WDI
+COM,Comoros,internet_users,Infrastructure,2019,16.38380051,% of population,World Bank WDI
+COM,Comoros,internet_users,Infrastructure,2020,22.42040062,% of population,World Bank WDI
+COM,Comoros,internet_users,Infrastructure,2021,30.68120003,% of population,World Bank WDI
+COM,Comoros,internet_users,Infrastructure,2022,31.37409973,% of population,World Bank WDI
+COM,Comoros,internet_users,Infrastructure,2023,31.92749977,% of population,World Bank WDI
+COM,Comoros,internet_users,Infrastructure,2024,32.51750183,% of population,World Bank WDI
+LDC,Least developed countries: UN classification,internet_users,Infrastructure,2015,10.7,% of population,World Bank WDI
+LDC,Least developed countries: UN classification,internet_users,Infrastructure,2016,13.8,% of population,World Bank WDI
+LDC,Least developed countries: UN classification,internet_users,Infrastructure,2017,16.2,% of population,World Bank WDI
+LDC,Least developed countries: UN classification,internet_users,Infrastructure,2018,19.5,% of population,World Bank WDI
+LDC,Least developed countries: UN classification,internet_users,Infrastructure,2019,21.2,% of population,World Bank WDI
+LDC,Least developed countries: UN classification,internet_users,Infrastructure,2020,24.1,% of population,World Bank WDI
+LDC,Least developed countries: UN classification,internet_users,Infrastructure,2021,26.1,% of population,World Bank WDI
+LDC,Least developed countries: UN classification,internet_users,Infrastructure,2022,28.2,% of population,World Bank WDI
+LDC,Least developed countries: UN classification,internet_users,Infrastructure,2023,29.9,% of population,World Bank WDI
+LDC,Least developed countries: UN classification,internet_users,Infrastructure,2024,31.4,% of population,World Bank WDI
+LDC,Least developed countries: UN classification,internet_users,Infrastructure,2025,33.7,% of population,World Bank WDI
+MDG,Madagascar,internet_users,Infrastructure,2015,4.173999786,% of population,World Bank WDI
+MDG,Madagascar,internet_users,Infrastructure,2016,4.713699818,% of population,World Bank WDI
+MDG,Madagascar,internet_users,Infrastructure,2017,6.406000137,% of population,World Bank WDI
+MDG,Madagascar,internet_users,Infrastructure,2018,7.747799873,% of population,World Bank WDI
+MDG,Madagascar,internet_users,Infrastructure,2019,9.379400253,% of population,World Bank WDI
+MDG,Madagascar,internet_users,Infrastructure,2020,11.35470009,% of population,World Bank WDI
+MDG,Madagascar,internet_users,Infrastructure,2021,13.74590015,% of population,World Bank WDI
+MDG,Madagascar,internet_users,Infrastructure,2022,17.81170082,% of population,World Bank WDI
+MDG,Madagascar,internet_users,Infrastructure,2023,18.24080086,% of population,World Bank WDI
+MDG,Madagascar,internet_users,Infrastructure,2024,18.67790031,% of population,World Bank WDI
+MUS,Mauritius,internet_users,Infrastructure,2015,50.1393184766711,% of population,World Bank WDI
+MUS,Mauritius,internet_users,Infrastructure,2016,52.19129944,% of population,World Bank WDI
+MUS,Mauritius,internet_users,Infrastructure,2017,55.4032403002657,% of population,World Bank WDI
+MUS,Mauritius,internet_users,Infrastructure,2018,58.596169704299,% of population,World Bank WDI
+MUS,Mauritius,internet_users,Infrastructure,2019,61.7299551453346,% of population,World Bank WDI
+MUS,Mauritius,internet_users,Infrastructure,2020,67.73290684,% of population,World Bank WDI
+MUS,Mauritius,internet_users,Infrastructure,2021,71.59999847,% of population,World Bank WDI
+MUS,Mauritius,internet_users,Infrastructure,2022,75.5,% of population,World Bank WDI
+MUS,Mauritius,internet_users,Infrastructure,2023,79.5,% of population,World Bank WDI
+MUS,Mauritius,internet_users,Infrastructure,2024,73.30793533,% of population,World Bank WDI
+SSF,Sub-Saharan Africa,internet_users,Infrastructure,2015,16.2,% of population,World Bank WDI
+SSF,Sub-Saharan Africa,internet_users,Infrastructure,2016,18.3,% of population,World Bank WDI
+SSF,Sub-Saharan Africa,internet_users,Infrastructure,2017,20.0,% of population,World Bank WDI
+SSF,Sub-Saharan Africa,internet_users,Infrastructure,2018,22.0,% of population,World Bank WDI
+SSF,Sub-Saharan Africa,internet_users,Infrastructure,2019,24.4,% of population,World Bank WDI
+SSF,Sub-Saharan Africa,internet_users,Infrastructure,2020,26.7,% of population,World Bank WDI
+SSF,Sub-Saharan Africa,internet_users,Infrastructure,2021,29.0,% of population,World Bank WDI
+SSF,Sub-Saharan Africa,internet_users,Infrastructure,2022,31.1,% of population,World Bank WDI
+SSF,Sub-Saharan Africa,internet_users,Infrastructure,2023,32.3,% of population,World Bank WDI
+SSF,Sub-Saharan Africa,internet_users,Infrastructure,2024,33.6,% of population,World Bank WDI
+SSF,Sub-Saharan Africa,internet_users,Infrastructure,2025,35.7,% of population,World Bank WDI
+SST,Small states,internet_users,Infrastructure,2015,47.7,% of population,World Bank WDI
+SST,Small states,internet_users,Infrastructure,2016,50.9,% of population,World Bank WDI
+SST,Small states,internet_users,Infrastructure,2017,55.6,% of population,World Bank WDI
+SST,Small states,internet_users,Infrastructure,2018,58.0,% of population,World Bank WDI
+SST,Small states,internet_users,Infrastructure,2019,62.1,% of population,World Bank WDI
+SST,Small states,internet_users,Infrastructure,2020,65.6,% of population,World Bank WDI
+SST,Small states,internet_users,Infrastructure,2021,69.1,% of population,World Bank WDI
+SST,Small states,internet_users,Infrastructure,2022,70.5,% of population,World Bank WDI
+SST,Small states,internet_users,Infrastructure,2023,71.7,% of population,World Bank WDI
+SST,Small states,internet_users,Infrastructure,2024,72.5,% of population,World Bank WDI
+SST,Small states,internet_users,Infrastructure,2025,0.0,% of population,World Bank WDI
+SYC,Seychelles,internet_users,Infrastructure,2015,54.25960159,% of population,World Bank WDI
+SYC,Seychelles,internet_users,Infrastructure,2016,56.51470184,% of population,World Bank WDI
+SYC,Seychelles,internet_users,Infrastructure,2017,62.55310059,% of population,World Bank WDI
+SYC,Seychelles,internet_users,Infrastructure,2018,69.23660278,% of population,World Bank WDI
+SYC,Seychelles,internet_users,Infrastructure,2019,76.63420105,% of population,World Bank WDI
+SYC,Seychelles,internet_users,Infrastructure,2020,79.25170135,% of population,World Bank WDI
+SYC,Seychelles,internet_users,Infrastructure,2021,81.99530029,% of population,World Bank WDI
+SYC,Seychelles,internet_users,Infrastructure,2022,84.83380127,% of population,World Bank WDI
+SYC,Seychelles,internet_users,Infrastructure,2023,86.001297,% of population,World Bank WDI
+SYC,Seychelles,internet_users,Infrastructure,2024,87.81800079,% of population,World Bank WDI
+WLD,World,internet_users,Infrastructure,2015,39.9,% of population,World Bank WDI
+WLD,World,internet_users,Infrastructure,2016,43.6,% of population,World Bank WDI
+WLD,World,internet_users,Infrastructure,2017,46.3,% of population,World Bank WDI
+WLD,World,internet_users,Infrastructure,2018,49.4,% of population,World Bank WDI
+WLD,World,internet_users,Infrastructure,2019,53.9,% of population,World Bank WDI
+WLD,World,internet_users,Infrastructure,2020,60.1,% of population,World Bank WDI
+WLD,World,internet_users,Infrastructure,2021,63.8,% of population,World Bank WDI
+WLD,World,internet_users,Infrastructure,2022,67.0,% of population,World Bank WDI
+WLD,World,internet_users,Infrastructure,2023,69.2,% of population,World Bank WDI
+WLD,World,internet_users,Infrastructure,2024,71.2,% of population,World Bank WDI
+WLD,World,internet_users,Infrastructure,2025,73.6,% of population,World Bank WDI
+COM,Comoros,ip_receipts,Creative value & IP,2015,1580933.98668535,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,ip_receipts,Creative value & IP,2015,100740416.110275,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,ip_receipts,Creative value & IP,2016,38728987.7925118,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,ip_receipts,Creative value & IP,2017,52573479.212667,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,ip_receipts,Creative value & IP,2018,71787155.0009767,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,ip_receipts,Creative value & IP,2019,67104085.8364454,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,ip_receipts,Creative value & IP,2020,35525475.7783553,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,ip_receipts,Creative value & IP,2021,43572931.5676134,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,ip_receipts,Creative value & IP,2022,54104326.8367592,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,ip_receipts,Creative value & IP,2023,86121068.9449912,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,ip_receipts,Creative value & IP,2024,64933947.4831296,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,ip_receipts,Creative value & IP,2025,25478336.7480997,current US$,World Bank WDI
+MDG,Madagascar,ip_receipts,Creative value & IP,2015,15610274.7936644,current US$,World Bank WDI
+MDG,Madagascar,ip_receipts,Creative value & IP,2016,3121201.49945988,current US$,World Bank WDI
+MDG,Madagascar,ip_receipts,Creative value & IP,2017,3489851.621717,current US$,World Bank WDI
+MDG,Madagascar,ip_receipts,Creative value & IP,2018,4472782.35091419,current US$,World Bank WDI
+MDG,Madagascar,ip_receipts,Creative value & IP,2019,5189615.92550841,current US$,World Bank WDI
+MDG,Madagascar,ip_receipts,Creative value & IP,2020,1028628.30548392,current US$,World Bank WDI
+MDG,Madagascar,ip_receipts,Creative value & IP,2021,157976.821419735,current US$,World Bank WDI
+MDG,Madagascar,ip_receipts,Creative value & IP,2022,653253.715503028,current US$,World Bank WDI
+MDG,Madagascar,ip_receipts,Creative value & IP,2023,483112.002207925,current US$,World Bank WDI
+MDG,Madagascar,ip_receipts,Creative value & IP,2024,2850739.41756848,current US$,World Bank WDI
+MDG,Madagascar,ip_receipts,Creative value & IP,2025,8561189.42665011,current US$,World Bank WDI
+MUS,Mauritius,ip_receipts,Creative value & IP,2015,1054090.71846016,current US$,World Bank WDI
+MUS,Mauritius,ip_receipts,Creative value & IP,2016,2311394.84878122,current US$,World Bank WDI
+MUS,Mauritius,ip_receipts,Creative value & IP,2017,834799.906037476,current US$,World Bank WDI
+MUS,Mauritius,ip_receipts,Creative value & IP,2018,1120907.45016001,current US$,World Bank WDI
+MUS,Mauritius,ip_receipts,Creative value & IP,2019,761331.693076585,current US$,World Bank WDI
+MUS,Mauritius,ip_receipts,Creative value & IP,2020,785744.233606353,current US$,World Bank WDI
+MUS,Mauritius,ip_receipts,Creative value & IP,2021,1777373.72680396,current US$,World Bank WDI
+MUS,Mauritius,ip_receipts,Creative value & IP,2022,701568.976466269,current US$,World Bank WDI
+MUS,Mauritius,ip_receipts,Creative value & IP,2023,329924.679360946,current US$,World Bank WDI
+MUS,Mauritius,ip_receipts,Creative value & IP,2024,622503.121628164,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,ip_receipts,Creative value & IP,2015,270715311.021638,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,ip_receipts,Creative value & IP,2016,237471451.820569,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,ip_receipts,Creative value & IP,2017,278560979.016397,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,ip_receipts,Creative value & IP,2018,427102830.630269,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,ip_receipts,Creative value & IP,2019,327943395.559286,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,ip_receipts,Creative value & IP,2020,245164277.594623,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,ip_receipts,Creative value & IP,2021,250267632.904819,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,ip_receipts,Creative value & IP,2022,346457740.267651,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,ip_receipts,Creative value & IP,2023,281802719.145978,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,ip_receipts,Creative value & IP,2024,361199742.88605,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,ip_receipts,Creative value & IP,2025,473659552.897983,current US$,World Bank WDI
+SST,Small states,ip_receipts,Creative value & IP,2015,770253453.252822,current US$,World Bank WDI
+SST,Small states,ip_receipts,Creative value & IP,2016,794659458.893518,current US$,World Bank WDI
+SST,Small states,ip_receipts,Creative value & IP,2017,917893206.52314,current US$,World Bank WDI
+SST,Small states,ip_receipts,Creative value & IP,2018,491085753.426477,current US$,World Bank WDI
+SST,Small states,ip_receipts,Creative value & IP,2019,1436364757.94607,current US$,World Bank WDI
+SST,Small states,ip_receipts,Creative value & IP,2020,1147196415.96631,current US$,World Bank WDI
+SST,Small states,ip_receipts,Creative value & IP,2021,1478728051.12963,current US$,World Bank WDI
+SST,Small states,ip_receipts,Creative value & IP,2022,1852877592.91084,current US$,World Bank WDI
+SST,Small states,ip_receipts,Creative value & IP,2023,2779005050.44007,current US$,World Bank WDI
+SST,Small states,ip_receipts,Creative value & IP,2024,3214470558.54005,current US$,World Bank WDI
+SST,Small states,ip_receipts,Creative value & IP,2025,3679344130.57957,current US$,World Bank WDI
+SYC,Seychelles,ip_receipts,Creative value & IP,2015,1271964.59675,current US$,World Bank WDI
+SYC,Seychelles,ip_receipts,Creative value & IP,2016,1303763.71166875,current US$,World Bank WDI
+SYC,Seychelles,ip_receipts,Creative value & IP,2017,1368951.89725218,current US$,World Bank WDI
+SYC,Seychelles,ip_receipts,Creative value & IP,2018,1403175.69468349,current US$,World Bank WDI
+SYC,Seychelles,ip_receipts,Creative value & IP,2019,1438255.08705057,current US$,World Bank WDI
+SYC,Seychelles,ip_receipts,Creative value & IP,2020,1375295.63935339,current US$,World Bank WDI
+SYC,Seychelles,ip_receipts,Creative value & IP,2021,1409678.03033723,current US$,World Bank WDI
+SYC,Seychelles,ip_receipts,Creative value & IP,2022,1444919.98109566,current US$,World Bank WDI
+SYC,Seychelles,ip_receipts,Creative value & IP,2023,1481042.98062305,current US$,World Bank WDI
+SYC,Seychelles,ip_receipts,Creative value & IP,2024,1518069.05513862,current US$,World Bank WDI
+SYC,Seychelles,ip_receipts,Creative value & IP,2025,1556020.78151709,current US$,World Bank WDI
+WLD,World,ip_receipts,Creative value & IP,2015,334020141367.658,current US$,World Bank WDI
+WLD,World,ip_receipts,Creative value & IP,2016,336557947206.346,current US$,World Bank WDI
+WLD,World,ip_receipts,Creative value & IP,2017,369028564429.474,current US$,World Bank WDI
+WLD,World,ip_receipts,Creative value & IP,2018,402487746499.753,current US$,World Bank WDI
+WLD,World,ip_receipts,Creative value & IP,2019,419446418182.713,current US$,World Bank WDI
+WLD,World,ip_receipts,Creative value & IP,2020,409447007595.422,current US$,World Bank WDI
+WLD,World,ip_receipts,Creative value & IP,2021,500716252941.032,current US$,World Bank WDI
+WLD,World,ip_receipts,Creative value & IP,2022,503600663134.804,current US$,World Bank WDI
+WLD,World,ip_receipts,Creative value & IP,2023,516951297044.776,current US$,World Bank WDI
+WLD,World,ip_receipts,Creative value & IP,2024,572585230740.67,current US$,World Bank WDI
+WLD,World,ip_receipts,Creative value & IP,2025,628849619113.466,current US$,World Bank WDI
+COM,Comoros,logistics_performance,Infrastructure,2016,2.57914,"index, 1 to 5",World Bank WDI
+COM,Comoros,logistics_performance,Infrastructure,2018,2.56,"index, 1 to 5",World Bank WDI
+LDC,Least developed countries: UN classification,logistics_performance,Infrastructure,2016,2.38803922222222,"index, 1 to 5",World Bank WDI
+LDC,Least developed countries: UN classification,logistics_performance,Infrastructure,2018,2.38648648648649,"index, 1 to 5",World Bank WDI
+LDC,Least developed countries: UN classification,logistics_performance,Infrastructure,2022,2.42083333333333,"index, 1 to 5",World Bank WDI
+MDG,Madagascar,logistics_performance,Infrastructure,2016,2.154639,"index, 1 to 5",World Bank WDI
+MDG,Madagascar,logistics_performance,Infrastructure,2018,2.39,"index, 1 to 5",World Bank WDI
+MDG,Madagascar,logistics_performance,Infrastructure,2022,2.3,"index, 1 to 5",World Bank WDI
+MUS,Mauritius,logistics_performance,Infrastructure,2018,2.73,"index, 1 to 5",World Bank WDI
+MUS,Mauritius,logistics_performance,Infrastructure,2022,2.5,"index, 1 to 5",World Bank WDI
+SSF,Sub-Saharan Africa,logistics_performance,Infrastructure,2016,2.47001585,"index, 1 to 5",World Bank WDI
+SSF,Sub-Saharan Africa,logistics_performance,Infrastructure,2018,2.44974358974359,"index, 1 to 5",World Bank WDI
+SSF,Sub-Saharan Africa,logistics_performance,Infrastructure,2022,2.53461538461538,"index, 1 to 5",World Bank WDI
+SST,Small states,logistics_performance,Infrastructure,2016,2.6649140625,"index, 1 to 5",World Bank WDI
+SST,Small states,logistics_performance,Infrastructure,2018,2.68235294117647,"index, 1 to 5",World Bank WDI
+SST,Small states,logistics_performance,Infrastructure,2022,2.82,"index, 1 to 5",World Bank WDI
+WLD,World,logistics_performance,Infrastructure,2016,2.88372565625,"index, 1 to 5",World Bank WDI
+WLD,World,logistics_performance,Infrastructure,2018,2.86625,"index, 1 to 5",World Bank WDI
+WLD,World,logistics_performance,Infrastructure,2022,3.0,"index, 1 to 5",World Bank WDI
+COM,Comoros,merch_exports,Helper,2015,17000000.0,current US$,World Bank WDI
+COM,Comoros,merch_exports,Helper,2016,31000000.0,current US$,World Bank WDI
+COM,Comoros,merch_exports,Helper,2017,39000000.0,current US$,World Bank WDI
+COM,Comoros,merch_exports,Helper,2018,41000000.0,current US$,World Bank WDI
+COM,Comoros,merch_exports,Helper,2019,39000000.0,current US$,World Bank WDI
+COM,Comoros,merch_exports,Helper,2020,21000000.0,current US$,World Bank WDI
+COM,Comoros,merch_exports,Helper,2021,34000000.0,current US$,World Bank WDI
+COM,Comoros,merch_exports,Helper,2022,54000000.0,current US$,World Bank WDI
+COM,Comoros,merch_exports,Helper,2023,31000000.0,current US$,World Bank WDI
+COM,Comoros,merch_exports,Helper,2024,30000000.0,current US$,World Bank WDI
+COM,Comoros,merch_exports,Helper,2025,48000000.0,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_exports,Helper,2015,151401605985.448,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_exports,Helper,2016,151196263294.182,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_exports,Helper,2017,180118069775.392,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_exports,Helper,2018,208206306915.82,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_exports,Helper,2019,199051275838.888,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_exports,Helper,2020,187836594031.428,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_exports,Helper,2021,237023706499.012,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_exports,Helper,2022,267572447313.92,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_exports,Helper,2023,261068274668.058,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_exports,Helper,2024,280927628040.488,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_exports,Helper,2025,311480401825.569,current US$,World Bank WDI
+MDG,Madagascar,merch_exports,Helper,2015,2048000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_exports,Helper,2016,2254000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_exports,Helper,2017,2848000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_exports,Helper,2018,3110000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_exports,Helper,2019,2696000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_exports,Helper,2020,2026000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_exports,Helper,2021,2729000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_exports,Helper,2022,3609000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_exports,Helper,2023,3213000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_exports,Helper,2024,2582000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_exports,Helper,2025,2498000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_exports,Helper,2015,2662000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_exports,Helper,2016,2359000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_exports,Helper,2017,2342000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_exports,Helper,2018,2366000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_exports,Helper,2019,2223000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_exports,Helper,2020,1789000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_exports,Helper,2021,1962000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_exports,Helper,2022,2388000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_exports,Helper,2023,2295000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_exports,Helper,2024,2368000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_exports,Helper,2025,2342000000.0,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_exports,Helper,2015,298993629085.313,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_exports,Helper,2016,266389160154.686,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_exports,Helper,2017,313775155300.367,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_exports,Helper,2018,366459427068.637,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_exports,Helper,2019,340922016107.385,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_exports,Helper,2020,296109548065.738,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_exports,Helper,2021,394505282765.29,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_exports,Helper,2022,442952930185.365,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_exports,Helper,2023,423323764452.812,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_exports,Helper,2024,437619594123.253,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_exports,Helper,2025,486797890518.341,current US$,World Bank WDI
+SST,Small states,merch_exports,Helper,2015,56722819672.5199,current US$,World Bank WDI
+SST,Small states,merch_exports,Helper,2016,53342223012.3652,current US$,World Bank WDI
+SST,Small states,merch_exports,Helper,2017,59873552865.9025,current US$,World Bank WDI
+SST,Small states,merch_exports,Helper,2018,69294747606.3463,current US$,World Bank WDI
+SST,Small states,merch_exports,Helper,2019,63972606501.2704,current US$,World Bank WDI
+SST,Small states,merch_exports,Helper,2020,58686815897.9165,current US$,World Bank WDI
+SST,Small states,merch_exports,Helper,2021,79754069910.677,current US$,World Bank WDI
+SST,Small states,merch_exports,Helper,2022,101822031853.199,current US$,World Bank WDI
+SST,Small states,merch_exports,Helper,2023,90998135399.2434,current US$,World Bank WDI
+SST,Small states,merch_exports,Helper,2024,98253267890.0119,current US$,World Bank WDI
+SST,Small states,merch_exports,Helper,2025,100882264470.442,current US$,World Bank WDI
+SYC,Seychelles,merch_exports,Helper,2015,415000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_exports,Helper,2016,460000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_exports,Helper,2017,547000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_exports,Helper,2018,569000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_exports,Helper,2019,518000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_exports,Helper,2020,432000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_exports,Helper,2021,464000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_exports,Helper,2022,537000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_exports,Helper,2023,541000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_exports,Helper,2024,557000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_exports,Helper,2025,550000000.0,current US$,World Bank WDI
+WLD,World,merch_exports,Helper,2015,16646105654420.3,current US$,World Bank WDI
+WLD,World,merch_exports,Helper,2016,16128622859301.6,current US$,World Bank WDI
+WLD,World,merch_exports,Helper,2017,17825250671274.5,current US$,World Bank WDI
+WLD,World,merch_exports,Helper,2018,19643736517947.3,current US$,World Bank WDI
+WLD,World,merch_exports,Helper,2019,19101899445690.9,current US$,World Bank WDI
+WLD,World,merch_exports,Helper,2020,17734593054238.5,current US$,World Bank WDI
+WLD,World,merch_exports,Helper,2021,22400021018447.9,current US$,World Bank WDI
+WLD,World,merch_exports,Helper,2022,25037933627192.0,current US$,World Bank WDI
+WLD,World,merch_exports,Helper,2023,24020257385719.3,current US$,World Bank WDI
+WLD,World,merch_exports,Helper,2024,24622126055009.9,current US$,World Bank WDI
+WLD,World,merch_exports,Helper,2025,26386782360229.6,current US$,World Bank WDI
+COM,Comoros,merch_imports,Helper,2015,214000000.0,current US$,World Bank WDI
+COM,Comoros,merch_imports,Helper,2016,219000000.0,current US$,World Bank WDI
+COM,Comoros,merch_imports,Helper,2017,253000000.0,current US$,World Bank WDI
+COM,Comoros,merch_imports,Helper,2018,243000000.0,current US$,World Bank WDI
+COM,Comoros,merch_imports,Helper,2019,265000000.0,current US$,World Bank WDI
+COM,Comoros,merch_imports,Helper,2020,280000000.0,current US$,World Bank WDI
+COM,Comoros,merch_imports,Helper,2021,327000000.0,current US$,World Bank WDI
+COM,Comoros,merch_imports,Helper,2022,348000000.0,current US$,World Bank WDI
+COM,Comoros,merch_imports,Helper,2023,358000000.0,current US$,World Bank WDI
+COM,Comoros,merch_imports,Helper,2024,358000000.0,current US$,World Bank WDI
+COM,Comoros,merch_imports,Helper,2025,371000000.0,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_imports,Helper,2015,241735741603.689,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_imports,Helper,2016,221826393960.824,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_imports,Helper,2017,247088107550.473,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_imports,Helper,2018,274525292399.14,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_imports,Helper,2019,275382357410.233,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_imports,Helper,2020,248932462998.374,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_imports,Helper,2021,312626306030.914,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_imports,Helper,2022,360859716984.58,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_imports,Helper,2023,338776114633.624,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_imports,Helper,2024,341109859616.394,current US$,World Bank WDI
+LDC,Least developed countries: UN classification,merch_imports,Helper,2025,376942548091.603,current US$,World Bank WDI
+MDG,Madagascar,merch_imports,Helper,2015,2795000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_imports,Helper,2016,2966000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_imports,Helper,2017,3670000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_imports,Helper,2018,4061000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_imports,Helper,2019,3942000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_imports,Helper,2020,3221000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_imports,Helper,2021,4409000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_imports,Helper,2022,5471000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_imports,Helper,2023,4750000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_imports,Helper,2024,4833000000.0,current US$,World Bank WDI
+MDG,Madagascar,merch_imports,Helper,2025,5240000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_imports,Helper,2015,4790000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_imports,Helper,2016,4655000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_imports,Helper,2017,5254000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_imports,Helper,2018,5661000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_imports,Helper,2019,5596000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_imports,Helper,2020,4220000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_imports,Helper,2021,5133000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_imports,Helper,2022,6609000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_imports,Helper,2023,6273000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_imports,Helper,2024,6843000000.0,current US$,World Bank WDI
+MUS,Mauritius,merch_imports,Helper,2025,6936000000.0,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_imports,Helper,2015,381662351386.964,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_imports,Helper,2016,332857988458.143,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_imports,Helper,2017,340001783419.34,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_imports,Helper,2018,383280042176.657,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_imports,Helper,2019,384053676640.135,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_imports,Helper,2020,320112637329.655,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_imports,Helper,2021,405916159068.196,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_imports,Helper,2022,486976833048.019,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_imports,Helper,2023,475586576757.946,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_imports,Helper,2024,465196239946.715,current US$,World Bank WDI
+SSF,Sub-Saharan Africa,merch_imports,Helper,2025,501155229910.99,current US$,World Bank WDI
+SST,Small states,merch_imports,Helper,2015,78816781584.8096,current US$,World Bank WDI
+SST,Small states,merch_imports,Helper,2016,80779280258.831,current US$,World Bank WDI
+SST,Small states,merch_imports,Helper,2017,88327031399.1726,current US$,World Bank WDI
+SST,Small states,merch_imports,Helper,2018,100069714649.411,current US$,World Bank WDI
+SST,Small states,merch_imports,Helper,2019,97955051978.36,current US$,World Bank WDI
+SST,Small states,merch_imports,Helper,2020,82282160284.2898,current US$,World Bank WDI
+SST,Small states,merch_imports,Helper,2021,108390792404.795,current US$,World Bank WDI
+SST,Small states,merch_imports,Helper,2022,126446197093.455,current US$,World Bank WDI
+SST,Small states,merch_imports,Helper,2023,129371706269.227,current US$,World Bank WDI
+SST,Small states,merch_imports,Helper,2024,130992357059.51,current US$,World Bank WDI
+SST,Small states,merch_imports,Helper,2025,141378070966.373,current US$,World Bank WDI
+SYC,Seychelles,merch_imports,Helper,2015,991000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_imports,Helper,2016,1040000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_imports,Helper,2017,1302000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_imports,Helper,2018,1271000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_imports,Helper,2019,1167000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_imports,Helper,2020,1004000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_imports,Helper,2021,1133000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_imports,Helper,2022,1364000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_imports,Helper,2023,1451000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_imports,Helper,2024,1446000000.0,current US$,World Bank WDI
+SYC,Seychelles,merch_imports,Helper,2025,1520000000.0,current US$,World Bank WDI
+WLD,World,merch_imports,Helper,2015,16781397236356.2,current US$,World Bank WDI
+WLD,World,merch_imports,Helper,2016,16257038042766.5,current US$,World Bank WDI
+WLD,World,merch_imports,Helper,2017,18026092763085.8,current US$,World Bank WDI
+WLD,World,merch_imports,Helper,2018,19873852702407.7,current US$,World Bank WDI
+WLD,World,merch_imports,Helper,2019,19386547613568.7,current US$,World Bank WDI
+WLD,World,merch_imports,Helper,2020,17932309754404.6,current US$,World Bank WDI
+WLD,World,merch_imports,Helper,2021,22646300693349.0,current US$,World Bank WDI
+WLD,World,merch_imports,Helper,2022,25757106247227.4,current US$,World Bank WDI
+WLD,World,merch_imports,Helper,2023,24377917596282.0,current US$,World Bank WDI
+WLD,World,merch_imports,Helper,2024,24913694736586.3,current US$,World Bank WDI
+WLD,World,merch_imports,Helper,2025,26694236727714.7,current US$,World Bank WDI
+COM,Comoros,population,Helper,2015,726682.0,people,World Bank WDI
+COM,Comoros,population,Helper,2016,741741.0,people,World Bank WDI
+COM,Comoros,population,Helper,2017,756669.0,people,World Bank WDI
+COM,Comoros,population,Helper,2018,771590.0,people,World Bank WDI
+COM,Comoros,population,Helper,2019,786578.0,people,World Bank WDI
+COM,Comoros,population,Helper,2020,802163.0,people,World Bank WDI
+COM,Comoros,population,Helper,2021,818174.0,people,World Bank WDI
+COM,Comoros,population,Helper,2022,834188.0,people,World Bank WDI
+COM,Comoros,population,Helper,2023,850387.0,people,World Bank WDI
+COM,Comoros,population,Helper,2024,866628.0,people,World Bank WDI
+COM,Comoros,population,Helper,2025,882847.0,people,World Bank WDI
+LDC,Least developed countries: UN classification,population,Helper,2015,961916563.0,people,World Bank WDI
+LDC,Least developed countries: UN classification,population,Helper,2016,984757534.0,people,World Bank WDI
+LDC,Least developed countries: UN classification,population,Helper,2017,1008260714.0,people,World Bank WDI
+LDC,Least developed countries: UN classification,population,Helper,2018,1032309742.0,people,World Bank WDI
+LDC,Least developed countries: UN classification,population,Helper,2019,1057170371.0,people,World Bank WDI
+LDC,Least developed countries: UN classification,population,Helper,2020,1082754466.0,people,World Bank WDI
+LDC,Least developed countries: UN classification,population,Helper,2021,1108233065.0,people,World Bank WDI
+LDC,Least developed countries: UN classification,population,Helper,2022,1133564482.0,people,World Bank WDI
+LDC,Least developed countries: UN classification,population,Helper,2023,1159744187.0,people,World Bank WDI
+LDC,Least developed countries: UN classification,population,Helper,2024,1186668913.0,people,World Bank WDI
+LDC,Least developed countries: UN classification,population,Helper,2025,1214167506.0,people,World Bank WDI
+MDG,Madagascar,population,Helper,2015,25426702.0,people,World Bank WDI
+MDG,Madagascar,population,Helper,2016,26099952.0,people,World Bank WDI
+MDG,Madagascar,population,Helper,2017,26788375.0,people,World Bank WDI
+MDG,Madagascar,population,Helper,2018,27494926.0,people,World Bank WDI
+MDG,Madagascar,population,Helper,2019,28219554.0,people,World Bank WDI
+MDG,Madagascar,population,Helper,2020,28953556.0,people,World Bank WDI
+MDG,Madagascar,population,Helper,2021,29691083.0,people,World Bank WDI
+MDG,Madagascar,population,Helper,2022,30437261.0,people,World Bank WDI
+MDG,Madagascar,population,Helper,2023,31195932.0,people,World Bank WDI
+MDG,Madagascar,population,Helper,2024,31964956.0,people,World Bank WDI
+MDG,Madagascar,population,Helper,2025,32740678.0,people,World Bank WDI
+MUS,Mauritius,population,Helper,2015,1262879.0,people,World Bank WDI
+MUS,Mauritius,population,Helper,2016,1263747.0,people,World Bank WDI
+MUS,Mauritius,population,Helper,2017,1264887.0,people,World Bank WDI
+MUS,Mauritius,population,Helper,2018,1265577.0,people,World Bank WDI
+MUS,Mauritius,population,Helper,2019,1265985.0,people,World Bank WDI
+MUS,Mauritius,population,Helper,2020,1266014.0,people,World Bank WDI
+MUS,Mauritius,population,Helper,2021,1266334.0,people,World Bank WDI
+MUS,Mauritius,population,Helper,2022,1262523.0,people,World Bank WDI
+MUS,Mauritius,population,Helper,2023,1248647.0,people,World Bank WDI
+MUS,Mauritius,population,Helper,2024,1245779.0,people,World Bank WDI
+MUS,Mauritius,population,Helper,2025,1243741.0,people,World Bank WDI
+SSF,Sub-Saharan Africa,population,Helper,2015,1024659421.0,people,World Bank WDI
+SSF,Sub-Saharan Africa,population,Helper,2016,1052166739.0,people,World Bank WDI
+SSF,Sub-Saharan Africa,population,Helper,2017,1080208893.0,people,World Bank WDI
+SSF,Sub-Saharan Africa,population,Helper,2018,1109196428.0,people,World Bank WDI
+SSF,Sub-Saharan Africa,population,Helper,2019,1138472475.0,people,World Bank WDI
+SSF,Sub-Saharan Africa,population,Helper,2020,1168133785.0,people,World Bank WDI
+SSF,Sub-Saharan Africa,population,Helper,2021,1198069722.0,people,World Bank WDI
+SSF,Sub-Saharan Africa,population,Helper,2022,1228187451.0,people,World Bank WDI
+SSF,Sub-Saharan Africa,population,Helper,2023,1258809472.0,people,World Bank WDI
+SSF,Sub-Saharan Africa,population,Helper,2024,1289936286.0,people,World Bank WDI
+SSF,Sub-Saharan Africa,population,Helper,2025,1321654217.0,people,World Bank WDI
+SST,Small states,population,Helper,2015,18482578.0,people,World Bank WDI
+SST,Small states,population,Helper,2016,18671045.0,people,World Bank WDI
+SST,Small states,population,Helper,2017,18865506.0,people,World Bank WDI
+SST,Small states,population,Helper,2018,19084934.0,people,World Bank WDI
+SST,Small states,population,Helper,2019,19293697.0,people,World Bank WDI
+SST,Small states,population,Helper,2020,19472157.0,people,World Bank WDI
+SST,Small states,population,Helper,2021,19646549.0,people,World Bank WDI
+SST,Small states,population,Helper,2022,19852364.0,people,World Bank WDI
+SST,Small states,population,Helper,2023,20031262.0,people,World Bank WDI
+SST,Small states,population,Helper,2024,20193405.0,people,World Bank WDI
+SST,Small states,population,Helper,2025,20347135.0,people,World Bank WDI
+SYC,Seychelles,population,Helper,2015,93419.0,people,World Bank WDI
+SYC,Seychelles,population,Helper,2016,94677.0,people,World Bank WDI
+SYC,Seychelles,population,Helper,2017,95843.0,people,World Bank WDI
+SYC,Seychelles,population,Helper,2018,96762.0,people,World Bank WDI
+SYC,Seychelles,population,Helper,2019,97625.0,people,World Bank WDI
+SYC,Seychelles,population,Helper,2020,98462.0,people,World Bank WDI
+SYC,Seychelles,population,Helper,2021,99258.0,people,World Bank WDI
+SYC,Seychelles,population,Helper,2022,119878.0,people,World Bank WDI
+SYC,Seychelles,population,Helper,2023,119773.0,people,World Bank WDI
+SYC,Seychelles,population,Helper,2024,121354.0,people,World Bank WDI
+SYC,Seychelles,population,Helper,2025,122730.0,people,World Bank WDI
+WLD,World,population,Helper,2015,7441084771.0,people,World Bank WDI
+WLD,World,population,Helper,2016,7528221579.0,people,World Bank WDI
+WLD,World,population,Helper,2017,7613788655.0,people,World Bank WDI
+WLD,World,population,Helper,2018,7696159728.0,people,World Bank WDI
+WLD,World,population,Helper,2019,7777162476.0,people,World Bank WDI
+WLD,World,population,Helper,2020,7853863139.0,people,World Bank WDI
+WLD,World,population,Helper,2021,7919567995.0,people,World Bank WDI
+WLD,World,population,Helper,2022,7988550201.0,people,World Bank WDI
+WLD,World,population,Helper,2023,8062923417.0,people,World Bank WDI
+WLD,World,population,Helper,2024,8140897523.0,people,World Bank WDI
+WLD,World,population,Helper,2025,8215424893.0,people,World Bank WDI
+COM,Comoros,rule_of_law,Governance,2015,-0.7533968,"estimate, world average = 0",World Bank WGI
+COM,Comoros,rule_of_law,Governance,2016,-0.725655,"estimate, world average = 0",World Bank WGI
+COM,Comoros,rule_of_law,Governance,2017,-0.815252,"estimate, world average = 0",World Bank WGI
+COM,Comoros,rule_of_law,Governance,2018,-0.9177262,"estimate, world average = 0",World Bank WGI
+COM,Comoros,rule_of_law,Governance,2019,-0.9869555,"estimate, world average = 0",World Bank WGI
+COM,Comoros,rule_of_law,Governance,2020,-1.0572913,"estimate, world average = 0",World Bank WGI
+COM,Comoros,rule_of_law,Governance,2021,-1.0919156,"estimate, world average = 0",World Bank WGI
+COM,Comoros,rule_of_law,Governance,2022,-1.1675508,"estimate, world average = 0",World Bank WGI
+COM,Comoros,rule_of_law,Governance,2023,-1.1228578,"estimate, world average = 0",World Bank WGI
+COM,Comoros,rule_of_law,Governance,2024,-1.1060278,"estimate, world average = 0",World Bank WGI
+COM,Comoros,rule_of_law,Governance,2025,-0.9550667,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,rule_of_law,Governance,2015,-0.787641,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,rule_of_law,Governance,2016,-0.7398408,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,rule_of_law,Governance,2017,-0.7828487,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,rule_of_law,Governance,2018,-0.7825029,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,rule_of_law,Governance,2019,-0.8437956,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,rule_of_law,Governance,2020,-0.8433405,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,rule_of_law,Governance,2021,-0.8764661,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,rule_of_law,Governance,2022,-0.9703646,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,rule_of_law,Governance,2023,-0.9504825,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,rule_of_law,Governance,2024,-0.8816876,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,rule_of_law,Governance,2025,-0.9455028,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,rule_of_law,Governance,2015,0.910151,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,rule_of_law,Governance,2016,0.9891723,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,rule_of_law,Governance,2017,0.9524699,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,rule_of_law,Governance,2018,0.9471334,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,rule_of_law,Governance,2019,0.9247455,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,rule_of_law,Governance,2020,0.9487347,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,rule_of_law,Governance,2021,0.7553415,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,rule_of_law,Governance,2022,0.7203759,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,rule_of_law,Governance,2023,0.720559,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,rule_of_law,Governance,2024,0.6978625,"estimate, world average = 0",World Bank WGI
+MUS,Mauritius,rule_of_law,Governance,2025,0.6760099,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,rule_of_law,Governance,2015,0.2893109,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,rule_of_law,Governance,2016,0.3344438,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,rule_of_law,Governance,2017,0.2802743,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,rule_of_law,Governance,2018,0.4545967,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,rule_of_law,Governance,2019,0.4469537,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,rule_of_law,Governance,2020,0.5341697,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,rule_of_law,Governance,2021,0.5531827,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,rule_of_law,Governance,2022,0.5652039,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,rule_of_law,Governance,2023,0.5593203,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,rule_of_law,Governance,2024,0.5758871,"estimate, world average = 0",World Bank WGI
+SYC,Seychelles,rule_of_law,Governance,2025,0.5779352,"estimate, world average = 0",World Bank WGI
+MDG,Madagascar,trademarks_nonresident,Creative value & IP,2015,2930.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_nonresident,Creative value & IP,2016,3296.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_nonresident,Creative value & IP,2017,3013.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_nonresident,Creative value & IP,2018,3467.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_nonresident,Creative value & IP,2019,3255.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_nonresident,Creative value & IP,2020,2973.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_nonresident,Creative value & IP,2021,3686.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_nonresident,Creative value & IP,2022,3452.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_nonresident,Creative value & IP,2023,2572.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_nonresident,Creative value & IP,2024,2530.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_nonresident,Creative value & IP,2015,1058.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_nonresident,Creative value & IP,2016,1218.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_nonresident,Creative value & IP,2017,1057.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_nonresident,Creative value & IP,2018,2704.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_nonresident,Creative value & IP,2019,2050.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_nonresident,Creative value & IP,2020,1968.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_nonresident,Creative value & IP,2021,2483.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_nonresident,Creative value & IP,2022,2720.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_nonresident,Creative value & IP,2023,2803.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_nonresident,Creative value & IP,2024,3857.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_nonresident,Creative value & IP,2015,64797.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_nonresident,Creative value & IP,2016,68427.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_nonresident,Creative value & IP,2017,77957.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_nonresident,Creative value & IP,2018,81869.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_nonresident,Creative value & IP,2019,85960.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_nonresident,Creative value & IP,2020,72997.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_nonresident,Creative value & IP,2021,59334.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_nonresident,Creative value & IP,2022,83208.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_nonresident,Creative value & IP,2023,76202.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_nonresident,Creative value & IP,2024,72395.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_nonresident,Creative value & IP,2016,511.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_nonresident,Creative value & IP,2017,479.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_nonresident,Creative value & IP,2018,690.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_nonresident,Creative value & IP,2019,540.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_nonresident,Creative value & IP,2020,468.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_nonresident,Creative value & IP,2021,411.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_nonresident,Creative value & IP,2022,557.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_nonresident,Creative value & IP,2023,500.0,applications,World Bank WDI
+WLD,World,trademarks_nonresident,Creative value & IP,2015,1854200.0,applications,World Bank WDI
+WLD,World,trademarks_nonresident,Creative value & IP,2016,1972500.0,applications,World Bank WDI
+WLD,World,trademarks_nonresident,Creative value & IP,2017,2107300.0,applications,World Bank WDI
+WLD,World,trademarks_nonresident,Creative value & IP,2018,2326300.0,applications,World Bank WDI
+WLD,World,trademarks_nonresident,Creative value & IP,2019,2352500.0,applications,World Bank WDI
+WLD,World,trademarks_nonresident,Creative value & IP,2020,2383600.0,applications,World Bank WDI
+WLD,World,trademarks_nonresident,Creative value & IP,2021,2894900.0,applications,World Bank WDI
+WLD,World,trademarks_nonresident,Creative value & IP,2022,2569700.0,applications,World Bank WDI
+WLD,World,trademarks_nonresident,Creative value & IP,2023,2416500.0,applications,World Bank WDI
+WLD,World,trademarks_nonresident,Creative value & IP,2024,2426900.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_resident,Creative value & IP,2015,2025.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_resident,Creative value & IP,2016,2757.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_resident,Creative value & IP,2017,2405.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_resident,Creative value & IP,2018,2448.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_resident,Creative value & IP,2019,2940.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_resident,Creative value & IP,2020,2723.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_resident,Creative value & IP,2021,2966.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_resident,Creative value & IP,2022,3424.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_resident,Creative value & IP,2023,3178.0,applications,World Bank WDI
+MDG,Madagascar,trademarks_resident,Creative value & IP,2024,3739.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_resident,Creative value & IP,2015,991.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_resident,Creative value & IP,2016,1110.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_resident,Creative value & IP,2017,1035.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_resident,Creative value & IP,2018,2523.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_resident,Creative value & IP,2019,2565.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_resident,Creative value & IP,2020,2466.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_resident,Creative value & IP,2021,2540.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_resident,Creative value & IP,2022,1837.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_resident,Creative value & IP,2023,1959.0,applications,World Bank WDI
+MUS,Mauritius,trademarks_resident,Creative value & IP,2024,1992.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_resident,Creative value & IP,2015,41092.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_resident,Creative value & IP,2016,40680.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_resident,Creative value & IP,2017,64192.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_resident,Creative value & IP,2018,57977.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_resident,Creative value & IP,2019,62006.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_resident,Creative value & IP,2020,52742.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_resident,Creative value & IP,2021,43873.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_resident,Creative value & IP,2022,49049.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_resident,Creative value & IP,2023,54205.0,applications,World Bank WDI
+SSF,Sub-Saharan Africa,trademarks_resident,Creative value & IP,2024,63169.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_resident,Creative value & IP,2016,13.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_resident,Creative value & IP,2017,58.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_resident,Creative value & IP,2018,67.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_resident,Creative value & IP,2019,105.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_resident,Creative value & IP,2020,84.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_resident,Creative value & IP,2021,33.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_resident,Creative value & IP,2022,54.0,applications,World Bank WDI
+SYC,Seychelles,trademarks_resident,Creative value & IP,2023,74.0,applications,World Bank WDI
+WLD,World,trademarks_resident,Creative value & IP,2015,6783600.0,applications,World Bank WDI
+WLD,World,trademarks_resident,Creative value & IP,2016,7790800.0,applications,World Bank WDI
+WLD,World,trademarks_resident,Creative value & IP,2017,10258300.0,applications,World Bank WDI
+WLD,World,trademarks_resident,Creative value & IP,2018,11967300.0,applications,World Bank WDI
+WLD,World,trademarks_resident,Creative value & IP,2019,12754100.0,applications,World Bank WDI
+WLD,World,trademarks_resident,Creative value & IP,2020,14793000.0,applications,World Bank WDI
+WLD,World,trademarks_resident,Creative value & IP,2021,15278600.0,applications,World Bank WDI
+WLD,World,trademarks_resident,Creative value & IP,2022,12986200.0,applications,World Bank WDI
+WLD,World,trademarks_resident,Creative value & IP,2023,12832500.0,applications,World Bank WDI
+WLD,World,trademarks_resident,Creative value & IP,2024,12801400.0,applications,World Bank WDI
